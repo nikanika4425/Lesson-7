@@ -1,0 +1,73 @@
+.logo{
+	width: 100px;
+	vertical-align: middle;
+}
+
+.d-block{
+	display: inline-block;
+}
+.navigation-li{
+	font-size: 92px;
+	margin-left: 10px;
+}
+.container{
+	width: 1500px;
+	margin: 0 auto;
+}
+.header{
+	background-image: "http://assets2.ignimgs.com/2014/02/01/fableblogjpg-e98510_1280w.jpg";
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	z-index: 7;
+}
+.main-box{
+	width: 900px;
+	height: 600px;
+	margin-top: 70px;
+	background-image: url(https://cdn.wccftech.com/wp-content/uploads/2019/06/fable-iv-fable-4-xbox-one.jpg);
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.squareimg{
+	width: 100px;
+}
+.box{
+	bottom: 0px;
+	left: 50px;
+	font-size: 35px;
+	color: Yellow;
+	
+}
+.relative{
+	position: relative;
+}
+.absolute{
+	position: absolute;
+}
+.bg-body{
+	height: 2200px;
+}
+.body{
+	
+	<background-image: "https://pixelz.cc/wp-content/uploads/2018/06/fable-legends-uhd-4k-wallpaper..jpg"
+	background-position: center;
+	background-size: cover;
+	width: 900px;
+	height: 600px;
+	margin-top: 70px;
+}
+.header{
+	background-color: white;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	z-index: 25;
+}
+.navigation-ul{
+	margin-left: 50px;
+	vertical-align: bottom;
+}
